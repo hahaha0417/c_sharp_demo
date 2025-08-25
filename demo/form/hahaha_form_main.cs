@@ -13,7 +13,7 @@ namespace demo
 
         private void hahaha_form_main_Shown(object sender, EventArgs e)
         {
-            
+
         }
 
         private void button_thread_pause_enabled_Click(object sender, EventArgs e)
@@ -36,6 +36,11 @@ namespace demo
             ha.Thread_Pause_?.Disabled();
 
             ha.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ha.Form_Main_Titlebar_.Show();
         }
     }
 }
