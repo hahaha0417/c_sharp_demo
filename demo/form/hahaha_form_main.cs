@@ -6,9 +6,7 @@ namespace demo
         {
             InitializeComponent();
 
-            ha.Initial(this);
-
-            ha.Thread_Create();
+            
         }
 
         private void hahaha_form_main_Shown(object sender, EventArgs e)
