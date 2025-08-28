@@ -14,9 +14,9 @@ namespace demo
         public static string License_ = "MIT";
         // ------------------------------------------- 
         public static string About_Name_ = "Ãö©óhahaha";
-        public static List<string> About_Content_ = new List<string> { 
-            new string("hahaha"),
-            new string("hahaha"),
+        public static List<string> About_Content_ = new List<string> {
+            "hahaha",
+            "hahaha",
         };
         // ------------------------------------------- 
 
